@@ -1,0 +1,1 @@
+# Task: write a function that uses Boolean numpy array, e.g., filter odd numbers
