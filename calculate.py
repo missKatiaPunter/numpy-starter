@@ -1,4 +1,4 @@
-# Add more functions to the module calculate. Try adding, subtracting, dividing np.arrays
+# Add more functions to the module calculate. Their starters are done for you
 
 import numpy as np
 
@@ -11,3 +11,13 @@ def add_arrays(list1, list2):
 
 def multiply_by_num(list1, num):
     return np.array(list1)*num
+
+def multiply_two_arrays(l1,l2):
+    pass
+
+def subtract_two_arrays():
+    pass
+
+def divide_two_arrays():
+    pass
+
